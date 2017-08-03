@@ -1,0 +1,386 @@
+{
+    "FOREX": {
+        "AUDCAD": [
+            "AUDCAD",
+            "Australian Dollar/Canadian Dollar",
+            "0.00001",
+            1,
+            "AUD/CAD"
+        ],
+        "AUDCHF": [
+            "AUDCHF",
+            "Australia Dollar/Switzerland Franc",
+            "0.00001",
+            2,
+            "AUD/CHF"
+        ],
+        "AUDJPY": [
+            "AUDJPY",
+            "Australian Dollar/Japanese Yen",
+            "0.001",
+            3,
+            "AUD/JPY"
+        ],
+        "AUDNZD": [
+            "AUDNZD",
+            "Australia Dollar/New Zealand Dollar",
+            "0.00001",
+            4,
+            "AUD/NZD"
+        ],
+        "AUDUSD": [
+            "AUDUSD",
+            "Australia Dollar/USA Dollar",
+            "0.00001",
+            5,
+            "AUD/USD"
+        ],
+        "CADCHF": [
+            "CADCHF",
+            "Canada Dollar/Switzerland Franc",
+            "0.00001",
+            6,
+            "CAD/CHF"
+        ],
+        "CADJPY": [
+            "CADJPY",
+            "Canada Dollar/Japan Yen",
+            "0.0001",
+            7,
+            "CAD/JPY"
+        ],
+        "CHFJPY": [
+            "CHFJPY",
+            "Switzerland Franc/Japan Yen",
+            "0.001",
+            8,
+            "CHF/JPY"
+        ],
+        "EURAUD": [
+            "EURAUD",
+            "European Euro/Australia Dollar",
+            "0.00001",
+            9,
+            "EUR/AUD"
+        ],
+        "EURCAD": [
+            "EURCAD",
+            "European Euro/Canada Dollar",
+            "0.00001",
+            10,
+            "EUR/CAD"
+        ],
+        "EURCHF": [
+            "EURCHF",
+            "European Euro/Switzerland Franc",
+            "0.00001",
+            11,
+            "EUR/CHF"
+        ],
+        "EURGBP": [
+            "EURGBP",
+            "European Euro/United Kingdom Pound Sterling",
+            "0.00001",
+            12,
+            "EUR/GBP"
+        ],
+        "EURHUF": [
+            "EURHUF",
+            "European Euro/Hungary Forint",
+            "0.001",
+            13,
+            "EUR/HUF"
+        ],
+        "EURJPY": [
+            "EURJPY",
+            "European Euro/Japan Yen",
+            "0.001",
+            14,
+            "EUR/JPY"
+        ],
+        "EURNOK": [
+            "EURNOK",
+            "European Euro/Norway Krone",
+            "0.00001",
+            15,
+            "EUR/NOK"
+        ],
+        "EURNZD": [
+            "EURNZD",
+            "European Euro/New Zealand Dollar",
+            "0.00001",
+            16,
+            "EUR/NZD"
+        ],
+        "EURSEK": [
+            "EURSEK",
+            "European Euro/Sweden Krona",
+            "0.00001",
+            17,
+            "EUR/SEK"
+        ],
+        "EURTRY": [
+            "EURTRY",
+            "European Euro/Turkey Lira",
+            "0.00001",
+            18,
+            "EUR/TRY"
+        ],
+        "EURUSD": [
+            "EURUSD",
+            "EURO/US Dollar",
+            "0.00001",
+            19,
+            "EUR/USD"
+        ],
+        "GBPAUD": [
+            "GBPAUD",
+            "British Pound/Australian Dollar",
+            "0.00001",
+            20,
+            "GBP/AUD"
+        ],
+        "GBPCAD": [
+            "GBPCAD",
+            "United Kingdom Pound Sterling/Canada Dollar",
+            "0.00001",
+            21,
+            "GBP/CAD"
+        ],
+        "GBPCHF": [
+            "GBPCHF",
+            "United Kingdom Pound Sterling/Switzerland Franc",
+            "0.00001",
+            22,
+            "GBP/CHF"
+        ],
+        "GBPJPY": [
+            "GBPJPY",
+            "British Pound/Japanese Yen",
+            "0.001",
+            23,
+            "GBP/JPY"
+        ],
+        "GBPNZD": [
+            "GBPNZD",
+            "United Kingdom Pound Sterling/New Zealand Dollar",
+            "0.00001",
+            24,
+            "GBP/NZD"
+        ],
+        "GBPUSD": [
+            "GBPUSD",
+            "British Pound/US Dollar",
+            "0.00001",
+            25,
+            "GBP/USD"
+        ],
+        "NZDCAD": [
+            "NZDCAD",
+            "New Zealand Dollar/Canada Dollar",
+            "0.00001",
+            26,
+            "NZD/CAD"
+        ],
+        "NZDCHF": [
+            "NZDCHF",
+            "New Zealand Dollar/Switzerland Franc",
+            "0.00001",
+            27,
+            "NZD/CHF"
+        ],
+        "NZDJPY": [
+            "NZDJPY",
+            "New Zealand Dollar/Japan Yen",
+            "0.001",
+            28,
+            "NZD/JPY"
+        ],
+        "NZDUSD": [
+            "NZDUSD",
+            "New Zealand Dollar/USA Dollar",
+            "0.00001",
+            29,
+            "NZD/USD"
+        ],
+        "TRYJPY": [
+            "TRYJPY",
+            "Turkey Lira/Japan Yen",
+            "0.00001",
+            30,
+            "TRY/JPY"
+        ],
+        "USDCAD": [
+            "USDCAD",
+            "USA Dollar/Canada Dollar",
+            "0.00001",
+            31,
+            "USD/CAD"
+        ],
+        "USDCHF": [
+            "USDCHF",
+            "USA Dollar/Switzerland Franc",
+            "0.00001",
+            32,
+            "USD/CHF"
+        ],
+        "USDCNH": [
+            "USDCNH",
+            "USA Dollar/ China Offshore Yuan",
+            "0.00001",
+            33,
+            "USD/CNH"
+        ],
+        "USDHKD": [
+            "USDHKD",
+            "USA Dollar/Hong Kong Dollar",
+            "0.001",
+            34,
+            "USD/HKD"
+        ],
+        "USDHUF": [
+            "USDHUF",
+            "USA Dollar/Hungary Forint",
+            "0.001",
+            35,
+            "USD/HUF"
+        ],
+        "USDJPY": [
+            "USDJPY",
+            "US Dollar/Japanese Yen",
+            "0.001",
+            36,
+            "USD/JPY"
+        ],
+        "USDMXN": [
+            "USDMXN",
+            "US Dollar/Mexican Peso",
+            "0.00001",
+            37,
+            "USD/MXN"
+        ],
+        "USDNOK": [
+            "USDNOK",
+            "USA Dollar/Norway Krone",
+            "0.00001",
+            38,
+            "USD/NOK"
+        ],
+        "USDSEK": [
+            "USDSEK",
+            "USA Dollar/Sweden Krona",
+            "0.00001",
+            39,
+            "USD/SEK"
+        ],
+        "USDTRY": [
+            "USDTRY",
+            "USA Dollar/Turkey Lira",
+            "0.00001",
+            40,
+            "USD/TRY"
+        ],
+        "USDZAR": [
+            "USDZAR",
+            "USA Dollar/South Africa Rand",
+            "0.00001",
+            41,
+            "USD/ZAR"
+        ],
+        "ZARJPY": [
+            "ZARJPY",
+            "South Africa Rand/Japan Yen",
+            "0.001",
+            42,
+            "ZAR/JPY"
+        ]
+    },
+    "COMMODITY": {
+        "XAGUSD": [
+            "XAGUSD",
+            "Sliver",
+            "0.001",
+            43,
+            "XAG/USD"
+        ],
+        "XAUUSD": [
+            "XAUUSD",
+            "Gold",
+            "0.001",
+            44,
+            "XAU/USD"
+        ],
+        "WTICOUSD": [
+            "BCOMRCL.X",
+            "West Texas Oil",
+            "0.001",
+            45,
+            "WTICOUSD"
+        ],
+        "XCUUSD": [
+            "BCOMHG.X",
+            "Copper",
+            "0.0001",
+            46,
+            "XCU/USD"
+        ],
+        "GT30GOV": [
+            "TYX.XO",
+            "30 Year Treasury Bond",
+            "0.01",
+            47,
+            "GT30:GOV"
+        ],
+        "GT10GOV": [
+            "TNX.XO",
+            "S10 Year T-Note",
+            "0.01",
+            48,
+            "GT10:GOV"
+        ],
+        "GT5GOV": [
+            "FVX.XO",
+            "5 Year T-Note",
+            "0.01",
+            49,
+            "GT5:GOV"
+        ]
+    },
+    "INDICE": {
+        "NAS100USD": [
+            "NDX.X",
+            "NASDAQ Composite Index",
+            "0.1",
+            50,
+            "NAS100USD"
+        ],
+        "US30USD": [
+            "INDU.X",
+            "Dow Jones Industrial Average",
+            "0.1",
+            51,
+            "US30USD"
+        ],
+        "SPX500USD": [
+            "SPX.XO",
+            "S&P 500 Index",
+            "0.1",
+            52,
+            "SPX500USD"
+        ],
+        "DE30EUR": [
+            "DAX.X",
+            "DAX INDEX",
+            "0.1",
+            53,
+            "DE30EUR"
+        ],
+        "JP225USD": [
+            "C320.IV.X",
+            "NIKKEI 225",
+            "0.1",
+            54,
+            "JP225USD"
+        ]
+    }
+}
