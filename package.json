@@ -1,10 +1,24 @@
 {
-  "name": "random_data_server",
-  "version": "1.0.0",
+  "name": "random-ohlc-data-server",
+  "version": "1.5.0",
   "description": "",
+  "keywords": [
+    "forex",
+    "stock",
+    "share",
+    "shares",
+    "ohlc",
+    "exchange",
+    "random",
+    "data",
+    "server"
+  ],
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watch"    
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
   },
   "author": "",
   "license": "ISC"
