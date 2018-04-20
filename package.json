@@ -20,6 +20,6 @@
   "devDependencies": {
     "jest": "^21.2.1"
   },
-  "author": "",
+  "author": "Liwen (Phil) Chen <clw.air@gmail.com>",
   "license": "ISC"
 }
